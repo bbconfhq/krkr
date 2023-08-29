@@ -30,7 +30,7 @@ Please make sure to update tests as appropriate.
 
 ## Help
 
-Any advice will welcome, please report on [Issues](https://github.com/gwanryo/kry-go/issues)
+Any advice will welcome, please report on [Issues](https://github.com/bbconfhq/krkr/issues)
 
 ### Acknowledgments
 
