@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class KrkrApplication
 
 fun main(args: Array<String>) {
-	runApplication<KrkrApplication>(*args)
+    runApplication<KrkrApplication>(*args)
 }

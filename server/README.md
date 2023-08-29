@@ -12,6 +12,21 @@ KRKR is an open-source online judge platform, and the abbreviation stands for Ki
 
 ## Getting Started
 
+### Prerequisite
+
+1. Execute below command once to run ktlint when pre-commit
+
+```shell
+./gradlew addKtlintCheckGitPreCommitHook
+
+```
+
+2. Execute below command once to run detekt when pre-push
+
+```shell
+./gradlew addDetektCheckGitPrePushHook
+```
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
